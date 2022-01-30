@@ -3,6 +3,7 @@
 
 namespace sdds
 {
+
     struct DNA 
     {
         int dnaId;
